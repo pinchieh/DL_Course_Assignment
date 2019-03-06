@@ -1,7 +1,7 @@
 # DL_Course_Assignment
 NTHU_CS565600
-Assignment ＜/br＞
-  1.Lab02 -> EDA_PCA ＜/br＞
+Assignment  
+  1.Lab02 -> EDA_PCA   
   2.lab03 -> Decision Trees & Random Forest＜/br＞
   3.lab04-1 -> Perceptron & Adaline & Optimization＜/br＞
   4.lab04-2 -> Regression＜/br＞
