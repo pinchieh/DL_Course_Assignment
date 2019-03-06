@@ -17,7 +17,7 @@ Assignment
   14.lab14-2 -> GAN   
   15.lab16-1 -> Q_Learning   
   16.lab17-1 -> DQN & Policy Network   
-  ＜/br＞
-Competition＜/br＞
-  1.com_3 -> Image Caption    
-  2.com_4 -> Reverse Image Caption
+      
+Competition     
+  1.com_3 -> Image Caption       
+  2.com_4 -> Reverse Image Caption    
