@@ -19,6 +19,6 @@ Assignment
   16.lab17-1 -> DQN & Policy Network   
       
 Competition     
-  1.com_1 -> Predicting Appropriate Response
+  1.com_1 -> Predicting Appropriate Response    
   2.com_3 -> Image Caption       
-  3.com_4 -> Reverse Image Caption    
+  3.com_4 -> Reverse Image Caption    (Conditional GAN)
