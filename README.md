@@ -1,6 +1,7 @@
 # DL_Course_Assignment
-NTHU_CS565600
-Assignment  
+## NTHU_CS565600  
+Course Link : https://nthu-datalab.github.io/ml/index.html  
+## Assignment  
   1.Lab02 -> EDA_PCA   
   2.lab03 -> Decision Trees & Random Forest   
   3.lab04-1 -> Perceptron & Adaline & Optimization    
@@ -18,7 +19,7 @@ Assignment
   15.lab16-1 -> Q_Learning   
   16.lab17-1 -> DQN & Policy Network   
       
-Competition     
+## Competition     
   1.com_1 -> Predicting Appropriate Response    
   2.com_3 -> Image Caption       
   3.com_4 -> Reverse Image Caption    (Conditional GAN)
